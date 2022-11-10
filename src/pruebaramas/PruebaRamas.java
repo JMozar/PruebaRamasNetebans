@@ -16,6 +16,7 @@ public class PruebaRamas {
         System.out.println("Otro cambio a la rama(luego del merge)");
         System.out.println("a");
         System.out.println("b");
+        System.out.println("c");
     }
     
 }
