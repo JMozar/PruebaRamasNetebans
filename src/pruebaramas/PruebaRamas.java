@@ -15,6 +15,7 @@ public class PruebaRamas {
         System.out.println("Otro commit en rama");
         System.out.println("Otro cambio a la rama(luego del merge)");
         System.out.println("a");
+        System.out.println("b");
     }
     
 }
